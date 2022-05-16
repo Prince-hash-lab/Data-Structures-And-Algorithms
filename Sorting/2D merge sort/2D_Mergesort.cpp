@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 // #include<stdint.h>
 // #define N 105
+
+
 using namespace std;
 // void printArray(vector<int> arr, int size)
 // {
